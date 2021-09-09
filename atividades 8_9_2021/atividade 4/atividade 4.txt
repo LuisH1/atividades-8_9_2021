@@ -1,0 +1,34 @@
+1)      Faça uma função que exibe todos os números menores que 1000 que são múltiplos de 100.
+
+
+> function repeticao(){
+   for(var n=100; n <=1000;n= n+100){
+   console.log(n);
+   }
+ }
+
+
+2)      Faça uma função que exibe todos os números maiores que 10 e menores que 100 que são pares.
+
+
+> function maiores(){
+   for(var n=10; n <=100;n= n+2){
+   console.log(n);
+   }
+ }
+
+
+
+3)      Faça uma função que recebe um número entre 12 e 20. Se a pessoa digitar um número diferente, mostrar a mensagem "número inválido". Se digitar corretamente, escrever no console o número recebido.
+
+
+
+
+>function pessoa(a){
+  if (a >= 12 && a <=20){
+    return  a 
+  }
+  else {
+    return "numero invalido"
+  }
+}

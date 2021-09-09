@@ -1,0 +1,22 @@
+1)      Faça uma função que exibe todos os números maiores que zero e menores que 10.
+
+ 
+> function maior(a){
+  var a = 0
+  while ( a >= 0 && a < 9 ){
+  console.log ( a + 1 )
+   a ++ }
+}
+
+
+2)      Faça uma função que exibe os 10 primeiros números que são menores que 80.
+
+
+
+> function primeiro(){
+  var a = 70
+  while ( a <=80 ){
+  console.log ( a  )
+   a ++ }
+}
+

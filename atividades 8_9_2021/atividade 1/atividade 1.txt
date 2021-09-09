@@ -1,0 +1,19 @@
+1)      Faça uma função que exibe todos os números menores que 10.
+
+> function conte(a){
+  var a = 1
+  while ( a <= 9 ){
+  console.log ( a + 0 )
+   a ++ }
+}
+
+2)      Faça uma função que exibe todos os números maiores que 50 e menores que 70.
+
+
+
+>function conte(a){
+  var a = 50
+  while ( a >= 50 && a < 70 ){
+  console.log ( a + 1 )
+   a ++ }
+}

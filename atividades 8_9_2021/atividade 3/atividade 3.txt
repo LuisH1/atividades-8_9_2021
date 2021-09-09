@@ -1,0 +1,21 @@
+1)      Faça uma função que escreve os números de 1 a 10 em ordem crescente.
+
+> function orden(){
+  var a = 1
+  while ( a <=10 ){
+  console.log ( a  )
+   a ++ }
+}
+
+
+2)      Faça uma função que escreve os números de 10 a 1 em ordem decrescente
+
+
+
+> function orden(){
+  var a = 10
+  while (a >= 1){
+  console.log (a)
+   a --;
+  }
+}
